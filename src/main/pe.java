@@ -8,7 +8,9 @@ public class pe {
 		System.out.println("Hi65");
 		
 		System.out.println("Hi66");
-		System.out.println("Hi68");
+
+		System.out.println("Hi70");
+
 	}
 
 }
